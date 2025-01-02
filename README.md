@@ -6,6 +6,7 @@ Este repositorio presenta modelos reentrenados de YOLO (YOLOv8n y YOLOv8x) dise�
 
 
 *Figura 4.	Validación final realizada al modelo “rocas_kuuku-x” utilizando muestras de la Escuela de Geología de la UIS. En la parte superior, A) las etiquetas originales de roca ígnea (color rojo), sedimentaria (color naranja) y metamórfica (color rosado). En la parte inferior, B) la predicción realizada por el modelo. La muestra en la fila 1, columna 2, es un ejemplo de una muestra con una predicción o etiqueta doble.*
+
 <img src="https://github.com/sergioGarcia91/YOLO_Rocas/blob/dc048584a408f018bf9b87bbc754266c90cd5263/Fig_04.jpg" alt="Figura 4" width="400"/>
 
 # Modelos
